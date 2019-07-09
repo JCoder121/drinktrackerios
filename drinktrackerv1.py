@@ -1,8 +1,3 @@
-
-Jeffrey Chen <j.chen14641@gmail.com>
-4:21 PM (1 minute ago)
-to me
-
 #drinktracker program on iphone, optimized
 #for vertical looking
 #v1.0 published onto github
